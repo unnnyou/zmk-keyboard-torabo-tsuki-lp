@@ -13,10 +13,6 @@
             layers = <2>;
         };
 
-        esc_combo {
-            bindings = <&kp ESC>;
-            key-positions = <58 59>;
-        };
     };
 
     keymap {
